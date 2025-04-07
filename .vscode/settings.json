@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "algorithm": "cpp"
+    }
+}
