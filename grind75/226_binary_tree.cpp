@@ -27,7 +27,6 @@ public:
     }
 };
 
-
 TreeNode* buildTree(const vector<int>& vals){
     if (vals.empty()) return nullptr;
 
@@ -52,7 +51,6 @@ TreeNode* buildTree(const vector<int>& vals){
     return root;
 }
 
-// Helper to print tree (level-order)
 void printTree(TreeNode* root){
     if(!root){
         cout << "[]\n";
